@@ -1,0 +1,644 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>2016年G20峰会官网</title>
+<meta name="Keywords" content="2016年G20峰会官网">
+<meta name="Description" content="2016年G20峰会官网">
+<link href="./images/css.css" id="c" rel="stylesheet" type="text/css">
+<link href="./images/style.css" id="s" rel="stylesheet" type="text/css">
+
+<!--<script type="text/javascript">
+function browserRedirect() {   
+	var sUserAgent=navigator.userAgent.toLowerCase();
+        var c=document.getElementById("c");
+          var s=document.getElementById("s");
+	var bIsIpad=sUserAgent.match(/ipad/i) == "ipad";
+	var bIsIphoneOs=sUserAgent.match(/iphone os/i) == "iphone os";
+	var bIsMidp=sUserAgent.match(/midp/i) == "midp";
+	var bIsUc7=sUserAgent.match(/rv:1.2.3.4/i) == "rv:1.2.3.4";
+	var bIsUc=sUserAgent.match(/ucweb/i) == "ucweb";
+	var bIsAndroid=sUserAgent.match(/android/i) == "android";
+	var bIsCE=sUserAgent.match(/windows ce/i) == "windows ce";
+	var bIsWM=sUserAgent.match(/windows mobile/i) == "windows mobile";
+	if ((bIsIpad || bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM) ){       
+           c.setAttribute("href","./images/css1.css"); 
+         s.setAttribute("href",""); 	
+}		
+browserRedirect();
+</script>
+<meta name="viewport" content="width=device-width; initial-scale=1.0">-->
+
+<style>
+
+.sq_main{ margin-left: -181px; z-index: 888; position: absolute; right: 12%; top: 1051px; width: 120px; height: 120px; background-color: #E68812;}
+.sq_content{ width: 120px; height: 120px; position: relative;}
+.sq_a1{ position: absolute; right: 15px; top: 15px;}
+.ewm{position:relative;margin-left:5px;margin-top:5px;}
+.dis111{margin-top:-75px;}
+.xin ul li a.dis111:hover{background:#eba041 url(./images/bg1.png) 65px -105px;}
+.trends .con .you{width:71%;}
+</style>
+</head>
+<body>
+<div id="zhc" style="display:none">
+    <div class="sq_main">
+		
+			<div class="sq_content"> 
+			<div><img class="ewm" src="./images/xwzxewm.png" width="110" height="110" /></div>
+			</div>
+
+    </div>
+</div>
+<div class="header">
+		<div class="top main">
+			<div class="logo"><a href="./index.html"><img src="./images/logo.png" /></a></div>
+			<div class="top_right" style="width: 469px;">
+				<div class="wether" > 
+				<span>
+				<script> 
+                                    var dt = new Date();
+				mn=dt.getMonth()+1;
+				dn=dt.getDate();
+				document.write(dt.getFullYear()+"年"+mn+"月"+dn+"日");
+				</script>				
+                                    </span>  
+				<a href="./index.html" target="_blank">简体中文</a>|<a href="/English" target="_blank">ENGLISH</a>
+				</div>
+				
+			</div>
+		</div>		
+		<!--menu start-->
+		<menu class="main" id="menu" style="padding:0 10px 0 15px">
+			
+			<div class="navBar">
+				<ul class="menunav clearfix">
+					<li class="m">
+					<font><a  href="./index.html">首 页</a></font></li>
+					
+					<li class="m">
+					<font><a  href="./gyg20/index.html" title="">关于G20</a></font>
+					<ul class="sub">
+					<li><a href="./gyg20/G20jj/index.html" title="">G20简介</a></li>
+                                              <li style="line-height:24px"><a href="./gyg20/ljfhcg/index.html" title="">历届峰会主要成果</a></li>
+
+					</ul>
+					
+					</li>
+					
+					<li class="m">
+					<font><a href="./zg2016/index.html">中国2016</a></font>
+					<ul class="sub">
+						<li><a href="./zg2016/zg2016/index.html" title="">2016年G20峰会</a></li>
+						<li><a href="./zg2016/xtrhy/index.html" title="">协调人会议</a></li>
+						<li style="line-height:24px"><a href="./zg2016/czhyxxzhy/index.html" title="">财长和央行行长会议</a></li>
+						<li><a href="./zg2016/hbjs/index.html" title="">会标</a></li>
+					</ul>
+					
+					</li>
+					<li class="m">
+					<font><a href="./hzzd/index.html">合作重点</a></font>
+					<ul class="sub">
+						
+							<li><a href="./hzzd/zybzy/index.html" title="">专业部长会议</a></li>
+						
+							<li><a href="./hzzd/pthdjs/index.html" title="">配套活动介绍</a></li>
+						
+
+					</ul>
+					</li>
+					<li class="m">
+					<font><a  href="./hywj/index.html" title="">会议文件</a></font>
+					<ul class="sub">
+						
+							<li><a href="./hywj/dncgwj/index.html" title="">当年成果文件</a></li>
+						
+							<li><a href="./hywj/lnG20gb/index.html" title="">历年G20公报</a></li>
+						
+                                                
+					</ul>
+					</li>
+					<li class="m"><font><a href="./dtxw/index.html" title="">动态新闻</a></font></li>
+					<li class="m"><font><a href="./zyhy/index.html" title="">重要会议</a></font></li>
+<li class="m"><font><a href="http://g20.org/hyzcgb/" target="_blank" title="">会议注册</a></font>
+
+<ul class="sub">
+					
+						<li><a href="http://g20.org/hyzcgb/" target="_blank" title="">会议注册</a></li>
+						<li><a  href="http://g20.org/mtzcgb/" target="_blank" >媒体注册</a></li>
+	</ul>
+
+</li>
+<!--
+					<li class="m"><font><a href="./hyzcgb/index.html" title="" target="_blank">会议注册</a></font></li>
+<li class="m"><font><a href="index.html" title="" target="_blank"></a></font></li>
+-->
+
+					<li class="m"><font><a target="_blank" href="http://www.g20chn.com/" title="">新闻中心</a></font></li>
+					<li class="m"><font><a href="./fwxx/index.html" title="">服务信息</a></font></li>
+					<li class="m"><font><a href="./wzdt/index.html" title="">网站地图</a></font></li>
+					
+				</ul>
+			</div>			
+		</menu>		
+		<!--menu end-->
+	</div>	
+	<!--<div class="y_30"></div>-->
+	<!--banner start-->
+	<div class="banner" style="text-align:center;z-index:-1">
+		<!-- 代码 开始 -->
+	<div id="fsD1" class="focus">  
+		<div id="D1pic1" class="fPic">  
+			 
+			<div class="fcon" style="display: none;">
+				<a target="_blank" href="./banner/201609/t20160904_3362.html"><img src="./banner/201609/W020160904812017599851.jpg" style="opacity: 1;" /></a>
+				
+				<span class="shadow"><a href="./banner/201609/t20160904_3362.html" target="_blank" title="二十国集团领导人杭州峰会举行 习近平主持会议并致开幕辞">二十国集团领导人杭州峰会举行 习近平主持会议并致开幕辞</a></span>
+				
+				
+				
+			</div> 
+			<div class="fcon" style="display: none;">
+				<a target="_blank" href="./banner/201609/t20160905_3387.html"><img src="./banner/201609/W020160905808171191550.jpg" style="opacity: 1;" /></a>
+				
+				<span class="shadow"><a href="./banner/201609/t20160905_3387.html" target="_blank" title="习近平在二十国集团领导人杭州峰会上的开幕辞（全文）">习近平在二十国集团领导人杭州峰会上的开幕辞（全文）</a></span>
+				
+				
+				
+			</div> 
+			<div class="fcon" style="display: none;">
+				<a target="_blank" href="./banner/201609/t20160904_3361.html"><img src="./banner/201609/W020160904812283226398.jpg" style="opacity: 1;" /></a>
+				
+				<span class="shadow"><a href="./banner/201609/t20160904_3361.html" target="_blank" title="二十国集团领导人杭州峰会举行 习近平主持会议并致开幕辞">二十国集团领导人杭州峰会举行 习近平主持会议并致开幕辞</a></span>
+				
+				
+				
+			</div> 
+			<div class="fcon" style="display: none;">
+				<a target="_blank" href="./banner/201609/t20160903_3310.html"><img src="./banner/201609/W020160903783711487781.jpg" style="opacity: 1;" /></a>
+				
+				<span class="shadow"><a href="./banner/201609/t20160903_3310.html" target="_blank" title="习近平出席2016年二十国集团工商峰会开幕式并发表主旨演讲">习近平出席2016年二十国集团工商峰会开幕式并发表主旨演讲</a></span>
+				
+				
+				
+			</div> 
+			<div class="fcon" style="display: none;">
+				<a target="_blank" href="./banner/201609/t20160903_3311.html"><img src="./banner/201609/W020160903784251922083.jpg" style="opacity: 1;" /></a>
+				
+				<span class="shadow"><a href="./banner/201609/t20160903_3311.html" target="_blank" title="习近平出席2016年二十国集团工商峰会开幕式并发表主旨演讲">习近平出席2016年二十国集团工商峰会开幕式并发表主旨演讲</a></span>
+				
+				
+				
+			</div>
+		</div>
+		<div class="y_520"></div>
+		<div class="fbg">  
+			<div class="D1fBt" id="D1fBt" style="">  
+			 
+				<a href="javascript:void(0)" hidefocus="true" target="_self" class=""><i>1</i></a>  
+				<a href="javascript:void(0)" hidefocus="true" target="_self" class=""><i>2</i></a>  
+				<a href="javascript:void(0)" hidefocus="true" target="_self" class=""><i>3</i></a>  
+				<a href="javascript:void(0)" hidefocus="true" target="_self" class=""><i>4</i></a>  
+				<a href="javascript:void(0)" hidefocus="true" target="_self" class=""><i>5</i></a>  
+			</div>  
+		</div>  
+		<span class="prev"></span>   
+		<span class="next"></span>    
+	</div>  
+	<!-- 代码 结束 -->
+	</div>
+	<!--banner end-->
+	<div class="y_50"></div>
+	<div class="main">
+		<div class="left">
+			<div class="nav"><a href="./dtxw/index.html" target="_blank">动态新闻</a></div>
+			<div class="trends">
+			
+			
+				<div class="con">
+					<div class="tu"><a href="./dtxw/201609/t20160905_3384.html" target="_blank"><img src="./dtxw/201609/W020160905790861470093.jpg" border=0 /></a></div>
+					<div class="you">
+					
+						<h2><a href="./dtxw/201609/t20160905_3384.html" target="_blank" title="二十国集团领导人杭州峰会继续举行 习近平主席主持会议并致闭幕辞">二十国集团领导人杭州峰会继续举行 习近平主席主持会议并致闭幕辞</a></h2>
+					
+					
+						<ul>
+							<li><a href="./dtxw/201609/t20160905_3384.html" target="_blank">　　2016年9月5日，二十国集团领导人杭州峰会在杭州国际博览中心继续举行。国家主席习近平主持会议并致闭幕辞。</a></li>
+							
+						</ul>
+						<!--<div class="time">2016-09-05 21:53:00</div>-->
+					</div>
+					<div class="cl"></div>
+				</div>
+				<div class="con">
+					<div class="tu"><a href="./dtxw/201609/t20160904_3359.html" target="_blank"><img src="./dtxw/201609/W020160904808256780840.jpg" border=0 /></a></div>
+					<div class="you">
+					
+						<h2><a href="./dtxw/201609/t20160904_3359.html" target="_blank" title="二十国集团领导人杭州峰会举行 习近平主持会议并致开幕辞">二十国集团领导人杭州峰会举行 习近平主持会议并致开幕辞</a></h2>
+					
+					
+						<ul>
+							<li><a href="./dtxw/201609/t20160904_3359.html" target="_blank">　　2016年9月4日，二十国集团领导人第十一次峰会在杭州国际博览中心举行。国家主席习近平主持会议并致开幕辞。</a></li>
+							
+						</ul>
+						<!--<div class="time">2016-09-04 21:28:00</div>-->
+					</div>
+					<div class="cl"></div>
+				</div>
+				<div class="con">
+					<div class="tu"><a href="./dtxw/201609/t20160905_3363.html" target="_blank"><img src="./dtxw/201609/W020160905579574182438.jpg" border=0 /></a></div>
+					<div class="you">
+					
+						<h2><a href="./dtxw/201609/t20160905_3363.html" target="_blank" title="习近平和彭丽媛欢迎出席峰会的外方代表团团长及所有嘉宾">习近平和彭丽媛欢迎出席峰会的外方代表团团长及所有嘉宾</a></h2>
+					
+					
+						<ul>
+							<li><a href="./dtxw/201609/t20160905_3363.html" target="_blank">　　2016年9月4日，国家主席习近平和夫人彭丽媛在杭州西子宾馆举行宴会，欢迎出席二十国集团领导人杭州峰会的外方代表团团长及所有嘉宾。</a></li>
+							
+						</ul>
+						<!--<div class="time">2016-09-05 01:14:00</div>-->
+					</div>
+					<div class="cl"></div>
+				</div>
+			</div>
+			<div class="trends">
+			
+				<dl>
+				
+		
+					<dt><a href="./dtxw/201610/t20161027_3527.html" target="_blank" title="李保东副部长在2016年二十国集团峰会第五次协调人会议开幕式上的致辞">李保东副部长在2016年二十国集团峰会第五次协调人会议开幕式上的致辞</a><!--<span>2016-10-27 15:31:00</span>--></dt>
+				
+								
+					
+					
+					<dd><a href="./dtxw/201610/t20161027_3527.html" target="_blank">　　各位同事：早上好！上个月，二十国集团领导人第十一次峰会在杭州圆满落幕。在世界经济增长和二十国集团转型的关键节点，杭州峰会承载了各方高度期待。</a></dd>
+				</dl>
+				<dl>
+				
+		
+					<dt><a href="./dtxw/201610/t20161027_3526.html" target="_blank" title="2016年二十国集团峰会第五次协调人会议在武汉开幕">2016年二十国集团峰会第五次协调人会议在武汉开幕</a><!--<span>2016-10-27 15:29:00</span>--></dt>
+				
+								
+					
+					
+					<dd><a href="./dtxw/201610/t20161027_3526.html" target="_blank">　　10月27日，2016年二十国集团（G20）峰会第五次协调人会议在武汉开幕。G20成员、嘉宾国和国际组织协调人等中外代表与会。中方G20事务协调人、外交部副部长李保东主持会议。
+</a></dd>
+				</dl>
+				<dl>
+				
+		
+					<dt><a href="./dtxw/201610/t20161019_3511.html" target="_blank" title="2016年第四次二十国集团财长和央行行长会议在华盛顿举行">2016年第四次二十国集团财长和央行行长会议在华盛顿举行</a><!--<span>2016-10-19 17:21:00</span>--></dt>
+				
+								
+					
+					
+					<dd><a href="./dtxw/201610/t20161019_3511.html" target="_blank">2016年10月6日，2016年第四次二十国集团（G20）财长和央行行长会议在华盛顿举行。</a></dd>
+				</dl>
+			</div>
+			<div class="y_30"></div>
+			<div class="btn"><a href="./dtxw/index.html" target="_blank">点击这里浏览更多新闻</a></div>
+		</div>
+		<div class="right">
+			<div class="xin">
+				<ul id="xin">
+					<li><a  target="_blank" href="./ldrzyjh/index.html" class="dis1"> 领导人重要讲话</a></li>
+				     <!--<li><a href="index.html" class="dis2" target="_blank"></a></li>-->
+<!--
+                    <li><a class="dis2" href="./hyzcgb/index.html" title="" target="_blank">会议注册</a></li>-->
+					
+					<li class="dis2">
+					<a href="http://g20.org/hyzcgb/" target="_blank">会议注册</a>
+					<span>|</span>
+					<a target="_blank" href="http://g20.org/mtzcgb/">媒体注册</a>
+					</li>
+					<li><a   target="_blank" href="http://www.g20chn.com/" class="dis3">新闻中心</a></li>
+					<li><a class="dis4" href="javascript:void(0)" onclick="xShow()">掌上新闻中心</a></li>
+				</ul>
+			</div>
+			
+			<!--news end-->
+			<div class="y_10"></div>
+			<!--Service strat-->
+			<div class="service">
+				<div class="nav"><a href="./fwxx/index.html" target="_blank" style="color:#50bce7;">服务信息</a></div>
+				<div class="con">
+				
+				 
+					<dl>
+						<dd><a href="./fwxx/cf/index.html" target="_blank" class="dis1"></a></dd>
+						<dt><a href="./fwxx/cf/" target="_blank" title="政府网站">政府网站</a></dt>
+					</dl> 
+					<dl>
+						<dd><a href="./fwxx/cx/index.html" target="_blank" class="dis2"></a></dd>
+						<dt><a href="./fwxx/cx/" target="_blank" title="出行">出行</a></dt>
+					</dl> 
+					<dl>
+						<dd><a href="./fwxx/yl/index.html" target="_blank" class="dis3"></a></dd>
+						<dt><a href="./fwxx/yl/" target="_blank" title="医疗">医疗</a></dt>
+					</dl> 
+					<dl>
+						<dd><a href="./fwxx/zs/index.html" target="_blank" class="dis4"></a></dd>
+						<dt><a href="./fwxx/zs/" target="_blank" title="住宿">住宿</a></dt>
+					</dl>
+					
+										<div class="cl"></div>
+				</div>
+			</div>
+			<!--Service end-->
+			<div class="y_20"></div>
+			<!--agenda strat-->
+			<div class="agenda">
+				<div class="nav">
+				<a href="./year/index.html" target="_blank" style="float:left">
+				全年会议安排</a>
+				<a href="./year/index.html" target="_blank" style="font-size:12px;float:right">显示更多>></a>
+				</div>
+				
+				<div class="con">
+					<span>2016<br>08.31</span>
+					
+						<p><a href="http://g20.org/year/201512/t20151231_2097.html" target="_blank">8月31日至9月1日 财政和央行副手会（公报磋商）（杭州）</a></p>
+				    
+					
+					<div class="cl"></div>
+				</div>
+				<div class="con">
+					<span>2016<br>09.01</span>
+					
+						<p><a href="http://g20.org/year/201512/t20151231_2097.html" target="_blank">9月1-2日 协调人会议 #4（公报磋商）（杭州）</a></p>
+				    
+					
+					<div class="cl"></div>
+				</div>
+				<div class="con">
+					<span>2016<br>09.02</span>
+					
+						<p><a href="http://g20.org/year/201512/t20151231_2097.html" target="_blank">9月2日 协调人与财政和央行副手联席会议（公报磋商）（杭州）</a></p>
+				    
+					
+					<div class="cl"></div>
+				</div>
+				<div class="con">
+					<span>2016<br>09.03</span>
+					
+						<p><a href="http://g20.org/year/201512/t20151231_2097.html" target="_blank">9月3-4日 工商峰会（杭州）</a></p>
+				    
+					
+					<div class="cl"></div>
+				</div>
+				<div class="con">
+					<span>2016<br>09.04</span>
+					
+						<p><a href="http://g20.org/year/201512/t20151231_2097.html" target="_blank">9月4-5日 领导人峰会（杭州）</a></p>
+				    
+					
+					<div class="cl"></div>
+				</div>
+                                   
+			</div>
+			<!--agenda end-->
+		</div>
+		<div class="cl"></div>
+	</div>
+	<div class="y_30"></div>
+	<div class="wrap">
+		<!--photo start-->
+		<div class="main">
+			<div class="nav1" style="float:left"><a href="./photo/index.html" target="_blank">图片中心</a></div>
+<div style="clear:both"></div>
+
+			<div class="y_20"></div>
+			 
+			<div class="tv">
+				<div class="tu"><a href="./photo/201609/t20160905_3367.html" target="_blank"><img src="./photo/201609/W020160905363993829713.jpg" /></a></div>
+				<dl>
+				
+			          <dt><a href="./photo/201609/t20160905_3367.html" target="_blank" title="二十国集团领导人第十一次峰会在杭州举行">二十国集团领导人第十一次峰会在杭州举行</a></dt>
+			   	
+				
+				
+					
+					<dd><a href="./photo/201609/t20160905_3367.html" target="_blank"></a></dd>
+				</dl>
+			</div> 
+			<div class="tv">
+				<div class="tu"><a href="./photo/201609/t20160905_3368.html" target="_blank"><img src="./photo/201609/W020160905368129000929.jpg" /></a></div>
+				<dl>
+				
+			          <dt><a href="./photo/201609/t20160905_3368.html" target="_blank" title="二十国集团领导人杭州峰会举行 习近平主持会议并致开幕辞">二十国集团领导人杭州峰会举行 习近平主持会议并致开幕辞</a></dt>
+			   	
+				
+				
+					
+					<dd><a href="./photo/201609/t20160905_3368.html" target="_blank"></a></dd>
+				</dl>
+			</div> 
+			<div class="tv">
+				<div class="tu"><a href="./photo/201609/t20160905_3372.html" target="_blank"><img src="./photo/201609/W020160905378185668898.jpg" /></a></div>
+				<dl>
+				
+			          <dt><a href="./photo/201609/t20160905_3372.html" target="_blank" title="习近平和彭丽媛欢迎出席峰会的外方代表团团长及所有嘉宾">习近平和彭丽媛欢迎出席峰会的外方代表团团长及所有嘉宾</a></dt>
+			   	
+				
+				
+					
+					<dd><a href="./photo/201609/t20160905_3372.html" target="_blank"></a></dd>
+				</dl>
+			</div>
+			<div class="cl"></div>
+		</div>
+		<!--photo end-->
+		<div class="y_20"></div>
+		<!--tv start-->
+		<div class="main" id="tv">
+			<div class="nav1" style="float:left"><a href="./video/index.html" target="_blank">视频中心</a></div>
+<div style="clear:both"></div>
+
+			<div class="y_20"></div>
+			
+			<div class="tv">
+				<div class="tu"><a href="./video/201609/t20160903_3318.html" target="_blank"><img src="./video/201609/W020160903827786554134.jpg" /></a></div>
+				<dl>
+				
+			         <dt><a href="./video/201609/t20160903_3318.html" target="_blank" title="习近平出席B20峰会开幕式并发表主旨演讲">习近平出席B20峰会开幕式并发表主旨演讲</a></dt>
+			  	
+				
+				
+				
+				<dd><a href="./video/201609/t20160903_3318.html" target="_blank"></a></dd>
+				</dl>
+			</div>
+			<div class="tv">
+				<div class="tu"><a href="./video/201609/t20160904_3339.html" target="_blank"><img src="./video/201609/W020160904418737164530.png" /></a></div>
+				<dl>
+				
+			         <dt><a href="./video/201609/t20160904_3339.html" target="_blank" title="习近平同美国总统奥巴马、联合国秘书长潘基文共同出席气候变化《巴黎协定》批准文书交存仪式">习近平同美国总统奥巴马、联合国秘书长潘基文共同出席气候变化《巴黎协定》批准文书交存仪式</a></dt>
+			  	
+				
+				
+				
+				<dd><a href="./video/201609/t20160904_3339.html" target="_blank"></a></dd>
+				</dl>
+			</div>
+			<div class="tv">
+				<div class="tu"><a href="./video/201609/t20160904_3354.html" target="_blank"><img src="./video/201609/W020160904756247736505.jpg" /></a></div>
+				<dl>
+				
+			         <dt><a href="./video/201609/t20160904_3354.html" target="_blank" title="习近平会见俄罗斯总统">习近平会见俄罗斯总统</a></dt>
+			  	
+				
+				
+				
+				<dd><a href="./video/201609/t20160904_3354.html" target="_blank"></a></dd>
+				</dl>
+			</div>
+			<div class="cl"></div>
+		</div>
+		<!--tv end-->
+		
+		<div class="y_20"></div>
+		<!--us start-->
+		<div class="main">
+					<div class="nav"><a href="./zjgk/index.html" target="_blank">浙江概况</a></div>
+
+
+			<div class="left">
+				<div class="us">
+				<p><a href="./zjgk/201510/t20151027_877.html" target="_blank" >浙江省地处中国东南沿海长江三角洲南翼，东临东海，南接福建，西与江西、安徽相连，北与上海、江苏接壤。境内最大的河流钱塘江，因江流曲折，称之江，又称浙江，省以江名，简称"浙"。省会杭州。浙江地形复杂，山地和丘陵占70.4%，平原和盆地占23.2%，河流和湖泊占6.4%，有"七山一水两分田"之说。</a></p>
+					
+				</div>
+			</div>
+			<div class="right">
+				<div class="us_tu">
+					
+						<a href="./zjgk/index.html" target="_blank"><img src="./zjgk/201510/W020151027598973400758.png" /></a>
+					
+						<a href="./zjgk/index.html" target="_blank"><img src="./zjgk/201510/W020151027598974156786.png" /></a>
+					
+					
+						<a href="./zjgk/index.html" target="_blank" style="margin-right: 0px;"><img src="./zjgk/201510/W020151027598974542146.png" /></a>
+					
+					<div class="cl"></div>
+				</div>
+			</div>
+			
+			<div class="cl"></div>
+		</div>
+		<!--us end-->
+		<div class="y_20"></div>
+		<!--us start-->
+		<div class="main">
+			
+			<div class="nav"><a href="./hzgk/hzgk/index.html" target="_blank">杭州概况</a></div>
+                 
+
+			<div class="left">
+				<div class="us">
+				<p><a href="./hzgk/hzgk/201510/t20151023_827.html" target="_blank" >杭州位于中国东南沿海，是浙江省省会和经济、文化、科教中心，长江三角洲中心城市。全市总面积16596平方千米，其中市区面积4876平方千米。至2014年末，常住人口889.2万人。杭州历史悠久，是中国的七大古都之一，是国家首批命名的历史文化名城，以“东南名郡”著称于世，有“上有天堂、下有苏杭”的美誉，被13世纪意大利旅行家马可·波罗赞叹为“世界上最美丽华贵之城”。<a></p>
+					
+				</div>
+			</div>
+			<div class="right">
+				<div class="us_tu" id="us_tu">
+					
+						<a href="./hzgk/hzgk/index.html" target="_blank"><img src="./hzgk/hzgk/201510/W020151027608605201506.jpg" /></a>
+					
+						<a href="./hzgk/hzgk/index.html" target="_blank"><img src="./hzgk/hzgk/201510/W020151027608606216254.jpg" /></a>
+					
+					
+						<a href="./hzgk/hzgk/index.html" target="_blank" style="margin-right: 0px;"><img src="./hzgk/hzgk/201510/W020151130734259499640.jpg" /></a>
+					
+					<div class="cl"></div>
+				</div>
+			</div>
+			
+			<div class="cl"></div>
+		</div>
+		<!--us end-->
+		<div class="y_30"></div>
+		<!--ENGAGEMENT GROUPS start-->
+		<div class="main">
+			<div class="nav1" style="float:left"><a href="./wwhgwy/index.html" target="_blank">外围会议官网</a></div>
+<div style="clear:both"></div>
+
+			<div class="y_20"></div>
+			<div class="groups">
+			
+				<a href="http://www.b20-china.org" target="_blank"><img src="./wwhgwy/201512/W020160513640683630020.png" /></a>
+				<a href="http://www.c20cn.org" target="_blank"><img src="./wwhgwy/201606/W020160621424878653636.png" /></a>
+				<div class="cl"></div>
+			</div>
+		</div>
+		<!--ENGAGEMENT GROUPS end-->
+		<div class="y_30"></div>
+	</div>
+	<!--footer start-->
+	<div class="footer">
+<div class="main">
+			<img src="./images/di_logo.png" />
+			<p>2016年G20峰会筹备委员会 版权所有 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="mailto:webmaster@g20chn.org" target="_blank">联系我们</a></p>
+		</div>
+
+	</div>
+
+
+<script type="text/javascript" src="./images/jquery.min.js"></script>
+
+       <script type="text/javascript" src="./images/SuperSlide.2.1.js"></script>
+        <script src="./images/daimabiji.js" type="text/javascript"></script>
+         <script type="text/javascript"> 
+          /*小于1024分辨率下CSS切换*/
+           window.onload=function(){ 
+           var c=document.getElementById("c");
+          var s=document.getElementById("s");
+           if(screen.width<=1024&&screen.width>640){ 
+           c.setAttribute("href","./images/css1.css"); 
+            s.setAttribute("href",""); 
+         }
+			else if(screen.width<640){
+			$("#xin li a").css('font-size','16px');
+			}		 
+         } 
+	</script>	
+	<!--footer end-->
+<script type="text/javascript" src="./images/koala.min.1.5.js"></script>	
+<script type="text/javascript">
+Qfast.add('widgets', { path: "./images/terminator2.2.min.js", type: "js", requires: ['fx'] });  
+Qfast(false, 'widgets', function () {
+K.tabs({
+  id: 'fsD1',   //焦点图包裹id  
+  conId: "D1pic1",  //** 大图域包裹id  
+  tabId:"D1fBt",  
+  tabTn:"a",
+  conCn: '.fcon', //** 大图域配置class       
+  auto: 1,   //自动播放 1或0
+  effect: 'fade',   //效果配置
+  eType: 'click', //** 鼠标事件
+  pageBt:true,//是否有按钮切换页码
+  bns: ['.prev', '.next'],//** 前后按钮配置class                          
+  interval: 3000  //** 停顿时间  
+			}) 
+		})  
+</script>
+<script type="text/javascript">
+$(function(){
+$('.service').find('dl').eq(3).css('margin-right','0px').end();
+$('.tv').eq(2).css('margin-right','0px').end();
+$('#tv').find('.tv').eq(2).css('margin-right','0px').end();
+$('.us_tu').find('a').eq(2).css('margin-right','0px').end();
+$('.groups').find('a').eq(5).css('margin-right','0px').end();
+});
+</script>
+<script type="text/javascript">
+       //二维码弹框
+		function xShow(){
+		 var s=document.getElementById("zhc").style.display;
+		 if(s=="none"){
+		$("#zhc").show();	}
+			else{$("#zhc").hide();}
+		}
+
+		
+  </script>
+</body>
+</html>
